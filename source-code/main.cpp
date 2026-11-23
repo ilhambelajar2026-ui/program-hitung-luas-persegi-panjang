@@ -31,7 +31,7 @@ int main() {
 
 
     // 4. OUTPUT
-    cout <<"tampilkan hasil luas persegi panajang"<< L << ;
+    cout <<"tampilkan hasil luas persegi panjang="<<L;
 
 
     return 0;
